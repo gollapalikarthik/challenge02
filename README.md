@@ -1,11 +1,7 @@
-# challenge02
-Start
-Declare distance, mileage, fuelprice, fuelrequired, and totalcost
-Read distance in kilometres
-Read mileage in kilometres per litre
-Read fuel price per litre
-Calculate: fuelrequired = distance / mileage
-Calculate: totalcost = fuelrequired × fuelprice
-Display fuelrequired
-Display totalcost
-Stop
+start
+read distance,mileage,fuelprice,fuelrequired,totalcost
+read distance(km),mileage(km/lit),fuelprice(lit)
+fuelrequired=distance\mileage
+total cost=fuelrequired*fuelprice
+display fuelrequired,totalcost
+stop
